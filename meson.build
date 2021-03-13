@@ -1,5 +1,6 @@
 project('nemo-ideviceinfo', 'c', version : '4.9.0')
 
+i18n = import('i18n')
 gnome = import('gnome')
 
 conf = configuration_data()
