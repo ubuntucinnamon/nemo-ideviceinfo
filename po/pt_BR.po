@@ -1,0 +1,158 @@
+# Brazilian Portuguese translation for nemo-ideviceinfo.
+# Copyright (C) 2015 the nemo-ideviceinfo authors.
+# This file is distributed under the same license as the nemo-ideviceinfo package.
+# Taylon Silmer <taylon@taylon.eti.br>, 2010.
+# Rafael Ferreira <rafael.f.f1@gmail.com>, 2015.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: nemo-ideviceinfo master\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-09 02:30+0000\n"
+"PO-Revision-Date: 2015-01-11 02:33-0300\n"
+"Last-Translator: Rafael Ferreira <rafael.f.f1@gmail.com>\n"
+"Language-Team: Brazilian Portuguese <gnome-pt_br-list@gnome.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 1.7.1\n"
+
+#: ../src/ideviceinfo-property-page.c:523 ../src/nemo-ideviceinfo.ui.h:18
+msgid "Storage"
+msgstr "Armazenamento"
+
+#: ../src/ideviceinfo-property-page.c:540
+msgid "Audio"
+msgstr "Áudio"
+
+#: ../src/ideviceinfo-property-page.c:543
+msgid "Video"
+msgstr "Vídeo"
+
+#: ../src/ideviceinfo-property-page.c:546
+msgid "Photos"
+msgstr "Fotos"
+
+#: ../src/ideviceinfo-property-page.c:549 ../src/ideviceinfo-property-page.c:554
+#: ../src/ideviceinfo-property-page.c:557
+msgid "Applications"
+msgstr "Aplicativos"
+
+#: ../src/ideviceinfo-property-page.c:553
+msgid "Other"
+msgstr "Outro"
+
+#: ../src/ideviceinfo-property-page.c:554
+msgid "Audio Files"
+msgstr "Arquivos de áudio"
+
+#: ../src/ideviceinfo-property-page.c:554
+msgid "Video Files"
+msgstr "Arquivos de vídeo"
+
+#: ../src/ideviceinfo-property-page.c:556
+msgid "Other & Media"
+msgstr "Mídias & outros"
+
+#: ../src/ideviceinfo-property-page.c:561
+msgid "Free"
+msgstr "Livre"
+
+#: ../src/ideviceinfo-property-page.c:742
+#, c-format
+msgid ""
+"There was an error loading '%s'.\n"
+"Consider reinstalling the application."
+msgstr ""
+"Houve um erro ao carregar o \"%s\".\n"
+"Considere reinstalar o aplicativo."
+
+#: ../src/nemo-ideviceinfo.c:54
+msgid "Details"
+msgstr "Detalhes"
+
+#: ../src/nemo-afc2-warning-bar.c:80
+msgid "Jailbroken filesystem browsing is unsupported"
+msgstr "Não há suporte a navegação no sistema de arquivos (jailbreak)"
+
+#: ../src/nemo-afc2-warning-bar.c:87
+msgid ""
+"Accessing the root filesystem of the device can cause damage. If problems occur, a "
+"restore will be necessary."
+msgstr ""
+"Acessar o sistema de arquivos raiz do dispositivo pode causar danos. Uma "
+"restauração pode ser necessária em caso de problemas."
+
+#: ../src/nemo-ideviceinfo.ui.h:1
+msgid "General"
+msgstr "Geral"
+
+#: ../src/nemo-ideviceinfo.ui.h:2
+msgid "UUID:"
+msgstr "UUID:"
+
+#: ../src/nemo-ideviceinfo.ui.h:3
+msgid "Unknown"
+msgstr "Desconhecido"
+
+#: ../src/nemo-ideviceinfo.ui.h:4
+msgid "Software Version:"
+msgstr "Versão do software:"
+
+#: ../src/nemo-ideviceinfo.ui.h:5
+msgid "Model:"
+msgstr "Modelo:"
+
+#: ../src/nemo-ideviceinfo.ui.h:6
+msgid "Name:"
+msgstr "Nome:"
+
+#: ../src/nemo-ideviceinfo.ui.h:7
+msgid "Serial Number:"
+msgstr "Número de série:"
+
+#: ../src/nemo-ideviceinfo.ui.h:8
+msgid "Phone"
+msgstr "Telefone"
+
+#: ../src/nemo-ideviceinfo.ui.h:9
+msgid "Phone Number:"
+msgstr "Número do telefone:"
+
+#: ../src/nemo-ideviceinfo.ui.h:10
+msgid "Mobile Carrier:"
+msgstr "Operadora móvel:"
+
+#: ../src/nemo-ideviceinfo.ui.h:11
+msgid "IMEI:"
+msgstr "IMEI:"
+
+#: ../src/nemo-ideviceinfo.ui.h:12
+msgid "IMSI:"
+msgstr "IMSI:"
+
+#: ../src/nemo-ideviceinfo.ui.h:13
+msgid "Modem Firmware:"
+msgstr "Firmware do modem:"
+
+#: ../src/nemo-ideviceinfo.ui.h:14
+msgid "ICCID:"
+msgstr "ICCID:"
+
+#: ../src/nemo-ideviceinfo.ui.h:15
+msgid "Network"
+msgstr "Rede"
+
+#: ../src/nemo-ideviceinfo.ui.h:16
+msgid "Bluetooth Address:"
+msgstr "Endereço do bluetooth:"
+
+#: ../src/nemo-ideviceinfo.ui.h:17
+msgid "WiFi Address:"
+msgstr "Endereço WiFi:"
+
+#: ../src/nemo-ideviceinfo.ui.h:19
+msgid "Browse jailbroken filesystem..."
+msgstr "Navegar no sistema de arquivos (jailbreak)..."

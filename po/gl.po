@@ -1,0 +1,155 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# Fran Diéguez <frandieguez@ubuntu.com>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: nemo-ideviceinfo\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-09-29 07:38+0000\n"
+"PO-Revision-Date: 2010-12-11 01:21+0100\n"
+"Last-Translator: Fran Diéguez <frandieguez@ubuntu.com>\n"
+"Language-Team: Galician <gnome-gl-list@gnome.org>\n"
+"Language: gl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"X-Poedit-Language: galician\n"
+
+#: ../src/ideviceinfo-property-page.c:525 ../src/nemo-ideviceinfo.ui.h:16
+msgid "Storage"
+msgstr "Almacenamento"
+
+#: ../src/ideviceinfo-property-page.c:544
+msgid "Audio"
+msgstr "Son"
+
+#: ../src/ideviceinfo-property-page.c:547
+msgid "Video"
+msgstr "Vídeo"
+
+#: ../src/ideviceinfo-property-page.c:550
+msgid "Photos"
+msgstr "Fotografías"
+
+#: ../src/ideviceinfo-property-page.c:553
+#: ../src/ideviceinfo-property-page.c:558
+#: ../src/ideviceinfo-property-page.c:561
+msgid "Applications"
+msgstr "Aplicativos"
+
+#: ../src/ideviceinfo-property-page.c:557
+msgid "Other"
+msgstr "Outros"
+
+#: ../src/ideviceinfo-property-page.c:558
+msgid "Audio Files"
+msgstr "Ficheiros de son"
+
+#: ../src/ideviceinfo-property-page.c:558
+msgid "Video Files"
+msgstr "Ficheiros de vídeo"
+
+#: ../src/ideviceinfo-property-page.c:560
+msgid "Other & Media"
+msgstr "Media e outros"
+
+#: ../src/ideviceinfo-property-page.c:565
+msgid "Free"
+msgstr "Dispoñíbel"
+
+#: ../src/ideviceinfo-property-page.c:734
+#, c-format
+msgid ""
+"There was an error loading '%s'.\n"
+"Consider reinstalling the application."
+msgstr ""
+"Produciuse un erro cargando «%s».\n"
+"Probe a reinstalar o aplicativo."
+
+#: ../src/nemo-ideviceinfo.c:54
+msgid "Details"
+msgstr "Información"
+
+#: ../src/nemo-afc2-warning-bar.c:80
+msgid "Jailbroken filesystem browsing is unsupported"
+msgstr "A exploración dos sistemas de ficheiros «jailbroken» non é compatíbel"
+
+#: ../src/nemo-afc2-warning-bar.c:86
+msgid ""
+"Accessing the root filesystem of the device can cause damage. If problems "
+"occur, a restore will be necessary."
+msgstr ""
+"O acceso ao sistema de ficheiros raíz do dispositivo pode producir danos. Se "
+"isto sucede será preciso restabelecelo."
+
+#: ../src/nemo-ideviceinfo.ui.h:1
+msgid "Bluetooth Address:"
+msgstr "Enderezo bluetooth:"
+
+#: ../src/nemo-ideviceinfo.ui.h:2
+msgid "Browse jailbroken filesystem..."
+msgstr "Explorar o sistema de ficheiros «jailbroken»..."
+
+#: ../src/nemo-ideviceinfo.ui.h:3
+msgid "General"
+msgstr "Xeral"
+
+#: ../src/nemo-ideviceinfo.ui.h:4
+msgid "ICCID:"
+msgstr "ICCID:"
+
+#: ../src/nemo-ideviceinfo.ui.h:5
+msgid "IMEI:"
+msgstr "IMEI:"
+
+#: ../src/nemo-ideviceinfo.ui.h:6
+msgid "IMSI:"
+msgstr "IMSI:"
+
+#: ../src/nemo-ideviceinfo.ui.h:7
+msgid "Mobile Carrier:"
+msgstr "Operador de telefonía móbil:"
+
+#: ../src/nemo-ideviceinfo.ui.h:8
+msgid "Model:"
+msgstr "Modelo:"
+
+#: ../src/nemo-ideviceinfo.ui.h:9
+msgid "Modem Firmware:"
+msgstr "Firmware do módem:"
+
+#: ../src/nemo-ideviceinfo.ui.h:10
+msgid "Name:"
+msgstr "Nome:"
+
+#: ../src/nemo-ideviceinfo.ui.h:11
+msgid "Network"
+msgstr "Rede"
+
+#: ../src/nemo-ideviceinfo.ui.h:12
+msgid "Phone"
+msgstr "Teléfono"
+
+#: ../src/nemo-ideviceinfo.ui.h:13
+msgid "Phone Number:"
+msgstr "Número de teléfono:"
+
+#: ../src/nemo-ideviceinfo.ui.h:14
+msgid "Serial Number:"
+msgstr "Número de serie:"
+
+#: ../src/nemo-ideviceinfo.ui.h:15
+msgid "Software Version:"
+msgstr "Versión do software:"
+
+#: ../src/nemo-ideviceinfo.ui.h:17
+msgid "UUID:"
+msgstr "UUID:"
+
+#: ../src/nemo-ideviceinfo.ui.h:18
+msgid "WiFi Address:"
+msgstr "Enderezo wifi:"

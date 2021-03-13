@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gresources>
+  <gresource prefix="/org/nemo/extensions/nemo-ideviceinfo">
+    <file preprocess="xml-stripblanks">nemo-ideviceinfo.ui</file>
+  </gresource>
+</gresources>

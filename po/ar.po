@@ -1,0 +1,137 @@
+# Arabic translation for nemo-ideviceinfo
+# Copyright (C) 2010 Hanéne Samara (حنان سمارة)
+# This file is distributed under the same license as the nemo-ideviceinfo package.
+# Hanéne Samara <samara@tzi.de>, 2010
+#
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: nemo-ideviceinfo 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-05-23 12:16+0200\n"
+"PO-Revision-Date: 2010-03-19 18:55+0100\n"
+"Last-Translator: Hanéne Samara <samara@tzi.de>\n"
+"Language-Team: \n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../src/ideviceinfo-property-page.c:512 ../src/nemo-ideviceinfo.ui.h:15
+msgid "Storage"
+msgstr "إشغال الذاكرة"
+
+#: ../src/ideviceinfo-property-page.c:532
+msgid "Audio"
+msgstr "الأغاني"
+
+#: ../src/ideviceinfo-property-page.c:535
+msgid "Video"
+msgstr "اﻷفلام"
+
+#: ../src/ideviceinfo-property-page.c:537
+msgid "Photos"
+msgstr "الصور"
+
+#: ../src/ideviceinfo-property-page.c:538
+#: ../src/ideviceinfo-property-page.c:542
+#: ../src/ideviceinfo-property-page.c:545
+msgid "Applications"
+msgstr "التطبيقات"
+
+#: ../src/ideviceinfo-property-page.c:541
+msgid "Other"
+msgstr "أخرى"
+
+#: ../src/ideviceinfo-property-page.c:542
+msgid "Audio Files"
+msgstr "ملفات الأغاني"
+
+#: ../src/ideviceinfo-property-page.c:542
+msgid "Video Files"
+msgstr "ملفات اﻷفلام"
+
+#: ../src/ideviceinfo-property-page.c:544
+msgid "Other & Media"
+msgstr "ملفات أخرى و الوسائط"
+
+#: ../src/ideviceinfo-property-page.c:549
+msgid "Free"
+msgstr "خالي"
+
+#: ../src/ideviceinfo-property-page.c:569
+#, c-format
+msgid ""
+"There was an error loading '%s'.\n"
+"Consider reinstalling the application."
+msgstr ""
+".'%s' خطأ عند تحميل\n"
+"إعادة تثبيت هذا التطبيق قد يساعد."
+
+#: ../src/nemo-ideviceinfo.c:55
+msgid "Details"
+msgstr "التفاصيل"
+
+#: ../src/nemo-ideviceinfo.ui.h:1
+msgid "Bluetooth Address:"
+msgstr ":Bluetooth عنوان"
+
+#: ../src/nemo-ideviceinfo.ui.h:2
+msgid "General"
+msgstr "عام"
+
+#: ../src/nemo-ideviceinfo.ui.h:3
+msgid "ICCID:"
+msgstr ":ICCID"
+
+#: ../src/nemo-ideviceinfo.ui.h:4
+msgid "IMEI:"
+msgstr ":IMEI"
+
+#: ../src/nemo-ideviceinfo.ui.h:5
+msgid "IMSI:"
+msgstr ":IMSI"
+
+#: ../src/nemo-ideviceinfo.ui.h:6
+msgid "Mobile Carrier:"
+msgstr "شركة الاتصالات:"
+
+#: ../src/nemo-ideviceinfo.ui.h:7
+msgid "Model:"
+msgstr "النموذج:"
+
+#: ../src/nemo-ideviceinfo.ui.h:8
+msgid "Modem Firmware:"
+msgstr ":(Firmware) المودم"
+
+#: ../src/nemo-ideviceinfo.ui.h:9
+msgid "Name:"
+msgstr "الاسم:"
+
+#: ../src/nemo-ideviceinfo.ui.h:10
+msgid "Network"
+msgstr "الشبكة"
+
+#: ../src/nemo-ideviceinfo.ui.h:11
+msgid "Phone"
+msgstr "الهاتف"
+
+#: ../src/nemo-ideviceinfo.ui.h:12
+msgid "Phone Number:"
+msgstr "رقم الهاتف:"
+
+#: ../src/nemo-ideviceinfo.ui.h:13
+msgid "Serial Number:"
+msgstr "رقم التسلسلي:"
+
+#: ../src/nemo-ideviceinfo.ui.h:14
+msgid "Software Version:"
+msgstr "اﻹصدار:"
+
+#: ../src/nemo-ideviceinfo.ui.h:16
+msgid "UUID:"
+msgstr ":UUID"
+
+#: ../src/nemo-ideviceinfo.ui.h:17
+msgid "WiFi Address:"
+msgstr ":WiFi عنوان"

@@ -1,0 +1,6 @@
+# List of source files containing translatable strings.
+# Please keep this list in alphabetic order.
+src/ideviceinfo-property-page.c
+src/nemo-ideviceinfo.c
+src/nemo-afc2-warning-bar.c
+[type: gettext/glade]src/nemo-ideviceinfo.ui
